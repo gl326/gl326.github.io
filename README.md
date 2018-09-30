@@ -15,53 +15,18 @@ If you mash the interact button, you can escape this unfortunate loop!
 This issue arises when you talk to the Captain from the left only. Talk to him from the right and it will work!
 
 ## ACT 5: Soft lock in the first castle room with Audrey
-This issue arises if you try really hard to get on Audrey's nerves. The best way to work around this issue is with the "Scene Select" cheat code. 
+This issue arises if you try really hard to get on Audrey's nerves. The best way to work around this issue is by re-loading this chapter of the game with [the "Scene Select" cheat code.](#something-is-too-frustrating-or-challenging-or-another-issue-is-blocking-progress)
 
 ## ACT 5: Crash at end of forest boss
 This issue only arises if you close and re-open the game in the second half of this battle. Unfortunately it's a bug in save data, so the best way to work around this issue is by re-loading this chapter of the game with [the "Scene Select" cheat code.](#something-is-too-frustrating-or-challenging-or-another-issue-is-blocking-progress)
 
+## ACT 5: Clipped through a wall in Mohabumi and can't get back to the other side
+If you find yourself stuck behind a crystal wall, you can turn them transparent with a special song (sorry for the spoilers). You just need to sing Right, Down, Left.
+
 # Something is too frustrating or challenging, or another issue is blocking progress.
-Scene Select is a feature normally unlocked after completing the game, and will let you jump to any section of the game. Use it wisely!
+When all else fails, there is a secret "Scene Select" in the game that will let you jump to any section of the game, or re-load your current scene if you're encountering a bug. Scene Select is a feature normally unlocked after completing the game, and will even let you skip ahead. Use it wisely!
 
 To unlock it, pause the game and open "Credits." Then press: Left, Right, L, R, Up, Up, Down, Left, R, A.
 On PC keyboard: Left, Right, Q, R, Up, Up, Down, Left, R, Space.
 
 Once unlocked, it will be available on the pause menu in place of the "Credits" screen.
-
-### Here are some bullets
-* First
-* Second
-  * Inner
-  * Inner 2
-* Third
-
-
-gfd
-
-dfg
-
-
-dfg
-
-
-
-
-dfg
-
-
-
-
-
-dg
-
-
-
-
-dfg
-
-
-
-dg
-
-
-(#category-2)
