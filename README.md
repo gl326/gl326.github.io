@@ -1,6 +1,9 @@
 ![WANDERSONG logo](_logo.png)
+# Known Bugs and Issues
+This is a list of known issues on the current console version of Wandersong! A patch will be going live to fix these things as soon as possible. In the meantime, you can reference this page to work around the issues. 
 
-# This is a Header
+If you have an issue that you don't see listed here, **please let us know by twitter (@theBanov, @wandersong_Game) or by email (banovg@gmail.com)**
+
 ## This is a smaller header
 
 This is some text
