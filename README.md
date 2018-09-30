@@ -18,7 +18,7 @@ This issue arises when you talk to the Captain from the left only. Talk to him f
 This issue arises if you try really hard to get on Audrey's nerves. The best way to work around this issue is with the "Scene Select" cheat code. 
 
 ## ACT 5: Crash at end of forest boss
-This issue only arises if you close and re-open the game in the second half of this battle. Unfortunately it's a bug in save data, so the best way to work around this issue is by re-loading this chapter of the game with [the "Scene Select" cheat code.](#Something-is-too-frustrating-or-challenging,-or-another-issue-is-blocking-progress.)
+This issue only arises if you close and re-open the game in the second half of this battle. Unfortunately it's a bug in save data, so the best way to work around this issue is by re-loading this chapter of the game with [the "Scene Select" cheat code.](#something-is-too-frustrating-or-challenging-or-another-issue-is-blocking-progress)
 
 # Something is too frustrating or challenging, or another issue is blocking progress.
 Scene Select is a feature normally unlocked after completing the game, and will let you jump to any section of the game. Use it wisely!
