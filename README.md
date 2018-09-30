@@ -1,4 +1,4 @@
-![WANDERSONG logo](_logo.png)
+![WANDERSONG logo](_logo_smol.png)
 # Known Bugs and Issues
 This is a list of known issues on the current console version of Wandersong! A patch will be going live to fix these things as soon as possible. In the meantime, you can reference this page to work around the issues. 
 
