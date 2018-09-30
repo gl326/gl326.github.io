@@ -1,4 +1,4 @@
-![WANDERSONG](_logo.png)
+![WANDERSONG logo](_logo.png)
 
 # This is a Header
 ## This is a smaller header
