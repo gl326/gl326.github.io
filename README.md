@@ -1,5 +1,5 @@
 [![WANDERSONG logo](_logo_smol2.png)](http://wanderso.ng)
-[##Go back to the website](http://wanderso.ng)
+##[Go back to the website](http://wanderso.ng)
 # Known Bugs and Issues
 This is a list of known issues on the current console version of Wandersong! A patch will be going live to fix these things as soon as possible. In the meantime, you can reference this page to work around the issues. 
 
