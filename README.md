@@ -14,6 +14,9 @@ If you mash the interact button, you can escape this unfortunate loop!
 ## ACT 3: Crash when talking to Captain Lucas in the pirate bar
 This issue arises when you talk to the Captain from the left only. Talk to him from the right and it will work!
 
+## ACT 4: Crown stuck in air after finale scene
+This issue arises if you have screen shake turned off. Switch it on briefly and jump to initiate this sequence.
+
 ## ACT 5: Soft lock in the first castle room with Audrey
 This issue arises if you try really hard to get on Audrey's nerves. The best way to work around this issue is by re-loading this chapter of the game with [the "Scene Select" cheat code.](#something-is-too-frustrating-or-challenging-or-another-issue-is-blocking-progress)
 
