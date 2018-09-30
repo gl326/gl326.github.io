@@ -18,7 +18,7 @@ This issue arises when you talk to the Captain from the left only. Talk to him f
 This issue arises if you try really hard to get on Audrey's nerves. The best way to work around this issue is by re-loading this chapter of the game with [the "Scene Select" cheat code.](#something-is-too-frustrating-or-challenging-or-another-issue-is-blocking-progress)
 
 ## ACT 5: Crash at end of forest boss
-This issue only arises if you close and re-open the game in the second half of this battle. Unfortunately it's a bug in save data, so the best way to work around this issue is by re-loading this chapter of the game with [the "Scene Select" cheat code.](#something-is-too-frustrating-or-challenging-or-another-issue-is-blocking-progress)
+This issue only arises if you close and re-open the game in the second half of this sequence. Unfortunately it's a bug in save data, so the best way to work around this issue is by re-loading this chapter of the game with [the "Scene Select" cheat code.](#something-is-too-frustrating-or-challenging-or-another-issue-is-blocking-progress)
 
 ## ACT 5: Clipped through a wall in Mohabumi and can't get back to the other side
 If you find yourself stuck behind a crystal wall, you can turn them transparent with a special song (sorry for the spoilers). You just need to sing Right, Down, Left.
