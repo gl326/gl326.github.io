@@ -9,7 +9,7 @@ If you have an issue that you don't see listed here, **please let us know by twi
 We find that the physics can be very erratic when the game is running at a low FPS. The game is very intensely optimized (it has to be to run on a Switch), but high resolution displays take a lot of processing power. If you are seeing erratic physics issues, consider playing in windowed mode, on a lower reoslution, and/or on a different display. Sorry!!!
 
 ## General: The bard's jump height is very low, platforming is difficult or impossible on PC
-144Hz displays interact badly with the game physics, because they force the game into a higher framerate than it was made for. If you are playing on a patched version of the game, chsnging your V-Sync settings in the Options can fix this (even just toggling on and off). Alternatively, minimizing the game and using alt-tab to re-open it often corrects this issue.
+144Hz displays interact badly with the game physics, because they force the game into a higher framerate than it was made for. If you're experiencing this issue on a patched version of the game, we recommend turning V-Sync OFF in the Options. Togglign the V-Sync on and off can correct this issue as well. Alternatively, minimizing the game and using alt-tab to re-open it often corrects this issue.
 
 ## ACT 2: Crash during band performance
 This issue only seems to occur rarely, and randomly. Players usually can pass this by resetting enough times. Turning off screen shake in the options may also help make it more stable!
