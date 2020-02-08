@@ -17,7 +17,7 @@ On PC keyboard: Left, Right, Q, R, Up, Up, Down, Left, R, Space.
 Once unlocked, it will be available on the pause menu in place of the "Credits" screen.
 
 ## XBox One: An achievement isn't unlocking
-Different people seem to have this issue for different achievements, and we are not yet sure of the cause. If you've met the conditions for an achievement, restarting the game ought to run the checks again and reward you any unrewarded achievements. If this doesn't work, as a drastic option, you can open the game Options and delete your save data, then use the [[Scene Select code]] to warp around the game and re-earn that achievement.
+Different people seem to have this issue for different achievements, and we are not yet sure of the cause. If you've met the conditions for an achievement, restarting the game ought to run the checks again and reward you any unrewarded achievements. If this doesn't work, as a drastic option, you can open the game Options and delete your save data, then use the Scene Select code above to warp around the game and re-earn that achievement.
 
 ## General: PC: The physics are erratic, collisions seem janky
 We find that the physics can be very erratic when the game is running at a low FPS. The game is very intensely optimized (it has to be to run on a Switch), but high resolution displays take a lot of processing power. If you are seeing erratic physics issues, consider playing in windowed mode, on a lower reoslution, and/or on a different display. The newest public build attempts to correct for these issues with the "auto-adjust" option, so make that is on and the game should optimize itself over the course of play.
