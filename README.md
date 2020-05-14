@@ -9,9 +9,13 @@ If you have an issue that you don't see listed here, **please let us know by twi
 If something is too frustrating or challenging, or an unknown issue is blocking progress, there's a "Scene Select" that will let you jump to any section of the game, or re-load your current scene if you're encountering a bug. Scene Select is a feature normally unlocked after completing the game, and will even let you skip past areas. Use it wisely!
 
 To unlock it, pause the game and open "Credits." Then press: 
+
 On Swich: Left, Right, L, R, Up, Up, Down, Left, R, A.
+
 On PS4 (input directions with left analog stick): Left, Right, L1, R1, Up, Up, Down, Left, R1, X.
+
 On XBox (input directions with left analog stick): Left, Right, LB, RB, Up, Up, Down, Left, RB, A.
+
 On PC keyboard: Left, Right, Q, R, Up, Up, Down, Left, R, Space.
 
 Once unlocked, it will be available on the pause menu in place of the "Credits" screen.
@@ -25,10 +29,15 @@ This is a known issue on consoles and will be fixed in our next patch! It happen
 ## ACT 3: Crash when talking to Markus on Tatango Island afer meeting mermaids
 This is a known issue on consoles and will be fixed in our next patch! Here are the lines Markus would say in this situation:
 > I've had time to reflect on the past.
+
 > I regret that I was aggressive and out of control.
+
 >...I'm sure it's the real reason my wife left.
+
 > I know I don't deserve it...
+
 > But I hope we can put my past actions behind us.
+
 > I would rather be friends.
 
 ## ACT 5: Crash when fighting the boss in the forest
