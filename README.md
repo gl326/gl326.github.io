@@ -1,7 +1,7 @@
 [![WANDERSONG logo](http://wanderso.ng/img/_logo_smol.png)](http://wanderso.ng)
 ## [[Click to go back to the website]](http://wanderso.ng)
 # Known Bugs and Issues
-This is a list of known issues in Wandersong! We are always working on fixes and regularly releasing patchees. In the meantime, you can reference this page to work around any issues you may encounter. 
+This is a list of known issues in Wandersong! We are always working on fixes and regularly releasing patches. In the meantime, you can reference this page to work around any issues you may encounter. 
 
 If you have an issue that you don't see listed here, **please let us know by twitter (@theBanov, @wandersong_Game) or by email (banovg@gmail.com)**
 
