@@ -10,19 +10,6 @@
   <div id="content"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
-    
-    function readTextFile() {
-  var rawFile = new XMLHttpRequest();
-  rawFile.open("GET", "README.md", true);
-  rawFile.onreadystatechange = function() {
-    if (rawFile.readyState === 4) {
-      var allText = rawFile.responseText;
-      document.getElementById('content').innerHTML =
-      marked(allText);
-    }
-  }
-  rawFile.send();
-}
     function hackFile(){
 	  document.getElementById('content').innerHTML =
       marked("[![WANDERSONG logo](http://wanderso.ng/img/_logo_smol.png)](http://wanderso.ng)
