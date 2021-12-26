@@ -23,7 +23,7 @@
   }
   rawFile.send();
 }
-    <!-- readTextFile() -->
+    function hackFile(){
 	  document.getElementById('content').innerHTML =
       marked("[![WANDERSONG logo](http://wanderso.ng/img/_logo_smol.png)](http://wanderso.ng)
 ## [[Click to go back to the website]](http://wanderso.ng)
@@ -83,7 +83,8 @@ We find that the physics can be very erratic when the game is running at a low F
 144Hz displays interact badly with the game physics, because they force the game into a higher framerate than it was made for. If you're experiencing this issue on a patched version of the game, we recommend turning V-Sync OFF in the Options. Toggling the V-Sync on and off can correct this issue as well. We've also been told turning "Stick to jump" OFF in "Controls" fixed it for some users. Alternatively, minimizing the game and using alt-tab to re-open it often corrects this issue.
 
 The newest public build attempts to correct for these issues with the "auto-adjust" option, so make that is on and the game should optimize itself over the course of play.")
-
+														}
+	    hackFile();
   </script>
 </body>
 </html>
